@@ -218,3 +218,5 @@ if ( ! function_exists( 'hello_elementor_body_open' ) ) {
 		}
 	}
 }
+
+require_once('custom-widgets/my-widgets.php');
